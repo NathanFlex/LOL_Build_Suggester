@@ -63,4 +63,4 @@ num_items = len(LEGENDARY_ITEM_LIST)
 embed_dim = 64
 hidden_dim = 64
 model = BuildReccomender(num_champs, embed_dim, hidden_dim, num_items)
-model.load_state_dict(torch.load("model.pth"))
+model.load_state_dict(torch.load("model.pth", map_location=torch.device('cpu')))
