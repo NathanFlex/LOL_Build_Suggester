@@ -24,8 +24,7 @@ def suggest_items(adc, sup):
     enemy_sup = champ_dict[enemy_sup]
     model.eval()
     with torch.no_grad():
-        enemy_input = torch.tensor([[enemy_adc, enemy_sup]], dtype=torch.long)  # .to(device)
-
+        enemy_input = torch.tensor([[enemy_adc, enemy_sup]], dtype=torch.long)
         preds = model(enemy_input)
     probs = preds.tolist()[0]
     item_prob = {}
@@ -63,5 +62,5 @@ num_champs = len(all_champs)
 num_items = len(LEGENDARY_ITEM_LIST)
 embed_dim = 64
 hidden_dim = 64
-model = BuildReccomender(num_champs, embed_dim, hidden_dim, num_items)#.to(device)
+model = BuildReccomender(num_champs, embed_dim, hidden_dim, num_items)
 model.load_state_dict(torch.load("model.pth"))
