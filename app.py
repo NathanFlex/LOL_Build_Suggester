@@ -1,7 +1,6 @@
 import os
 import streamlit as st
 import pandas as pd
-import import_ipynb
 import cv2 as cv
 from suggest_build import suggest_items
 
