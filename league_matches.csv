@@ -1,0 +1,99 @@
+kills,deaths,assists,cs,gold,vision,items,enemy champs,result
+2,4,4,24,5400,36,"['Solstice Sleigh', 'Tear of the Goddess', 'Boots of Swiftness', 'Oracle Lens', 'Heartsteel', 'Ruby Crystal']","['Aphelios', 'Sion']",0
+4,7,15,53,12100,103,"['Solstice Sleigh', 'Titanic Hydra', 'Heartsteel', 'Oracle Lens', ""Sterak's Gage"", 'Chainlaced Crushers']","['Samira', 'Lux']",0
+0,13,20,37,10200,79,"['Oracle Lens', 'Solstice Sleigh', 'Heartsteel', ""Mercury's Treads"", ""Warmog's Armor"", 'Bramble Vest', 'Kindlegem']","['Twitch', 'Lux']",0
+2,10,15,29,9800,79,"['Oracle Lens', 'Solstice Sleigh', 'Iceborn Gauntlet', ""Warmog's Armor"", ""Mercury's Treads"", 'Winged Moonplate', 'Ruby Crystal']","['Caitlyn', 'Pyke']",1
+6,6,19,65,10500,59,"['Solstice Sleigh', 'Stridebreaker', ""Mercury's Treads"", 'Oracle Lens', ""Wit's End"", 'Bramble Vest', 'Ruby Crystal']","['Jinx', 'Sona']",1
+2,7,4,31,6400,56,"['Solstice Sleigh', 'Heartsteel', ""Mercury's Treads"", 'Oracle Lens', ""Executioner's Calling"", 'Long Sword', 'Long Sword']","['Jinx', 'Sona']",0
+4,6,19,57,12600,109,"['Solstice Sleigh', 'Unending Despair', ""Mercury's Treads"", 'Oracle Lens', ""Warmog's Armor"", 'Thornmail', ""Giant's Belt""]","['Jinx', 'Zyra']",1
+1,8,10,29,7400,59,"['Oracle Lens', 'Solstice Sleigh', 'Heartsteel', ""Mercury's Treads"", ""Giant's Belt"", 'Aegis of the Legion']","['Aphelios', 'Milio']",0
+6,5,16,48,9900,63,"['Solstice Sleigh', 'Heartsteel', 'Sunfire Aegis', 'Oracle Lens', ""Giant's Belt"", ""Mercury's Treads""]","['Xayah', 'Taric']",1
+6,5,18,22,9900,58,"['Oracle Lens', 'Solstice Sleigh', 'Redemption', 'Heartsteel', 'Thornmail', ""Mercury's Treads""]","['Jhin', 'Lux']",0
+4,8,6,21,15000,24,"['Stealth Ward', 'Dream Maker', 'Redemption', 'Crimson Lucidity', 'Moonstone Renewer', 'Dawncore']","['Zeri', 'Ivern']",1
+1,4,13,19,6900,42,"['Solstice Sleigh', 'Heartsteel', 'Redemption', 'Oracle Lens', ""Mercury's Treads""]","['Yunara', 'Rakan']",1
+0,9,9,36,9200,74,"['Solstice Sleigh', 'Redemption', 'Heartsteel', 'Oracle Lens', ""Mercury's Treads"", 'Negatron Cloak', ""Spectre's Cowl""]","['Ashe', 'Milio']",0
+4,14,31,30,15200,115,"['Celestial Opposition', 'Redemption', ""Knight's Vow"", 'Oracle Lens', 'Heartsteel', 'Thornmail', 'Force of Nature']","['Smolder', 'Lux']",1
+2,9,23,30,9800,67,"['Farsight Alteration', 'Solstice Sleigh', 'Redemption', 'Heartsteel', ""Mercury's Treads"", 'Tunneler', 'Ruby Crystal']","[""Kai'Sa"", ""Vel'Koz""]",1
+0,7,21,40,10400,68,"['Solstice Sleigh', 'Heartsteel', 'Boots of Swiftness', 'Oracle Lens', ""Warmog's Armor"", 'Tunneler', 'Ruby Crystal']","['Ziggs', 'Zyra']",1
+8,12,15,32,11500,85,"['Celestial Opposition', 'Redemption', 'Iceborn Gauntlet', 'Oracle Lens', 'Chainlaced Crushers', 'Hollow Radiance']","['Aatrox', 'Brand']",0
+4,8,6,32,7200,44,"['Celestial Opposition', 'Redemption', ""Executioner's Calling"", 'Oracle Lens', 'Boots of Swiftness', 'Sheen', 'Chain Vest']","['Jhin', 'Soraka']",0
+3,13,11,39,9200,69,"['Farsight Alteration', 'Solstice Sleigh', 'Heartsteel', 'Hollow Radiance', 'Bramble Vest', 'Boots of Swiftness', 'Chain Vest']","['Miss Fortune', 'Zyra']",0
+1,3,13,19,13500,14,"['Stealth Ward', 'Solstice Sleigh', 'Locket of the Iron Solari', 'Boots of Swiftness', 'Thornmail', ""Shurelya's Battlesong"", ""Zeke's Convergence""]","['Twitch', 'Soraka']",1
+1,4,6,36,10600,13,"['Stealth Ward', ""Zaz'Zak's Realmspike"", ""Shurelya's Battlesong"", 'Bandleglass Mirror', 'Ionian Boots of Lucidity', 'Ardent Censer', 'Locket of the Iron Solari']","[""Kai'Sa"", 'Lux']",1
+5,7,30,26,12200,60,"['Solstice Sleigh', ""Knight's Vow"", 'Heartsteel', 'Oracle Lens', 'Boots of Swiftness', 'Frozen Heart']","['Zeri', 'Poppy']",1
+0,8,16,50,7900,62,"['Oracle Lens', 'Celestial Opposition', 'Tiamat', 'Heartsteel', 'Boots of Swiftness', 'Winged Moonplate', 'Negatron Cloak']","['Caitlyn', 'Thresh']",0
+9,8,15,64,14300,89,"['Celestial Opposition', 'Stridebreaker', 'Heartsteel', 'Oracle Lens', 'Boots of Swiftness', 'Iceborn Gauntlet', ""Overlord's Bloodmail""]","['Sivir', ""Vel'Koz""]",1
+1,10,8,50,7900,52,"['Oracle Lens', 'Celestial Opposition', 'Stridebreaker', ""Executioner's Calling"", 'Boots of Swiftness', 'Crystalline Bracer', ""Giant's Belt""]","['Jhin', 'Lulu']",0
+5,5,14,58,8300,37,"['Celestial Opposition', 'Stridebreaker', 'Iceborn Gauntlet', 'Oracle Lens', 'Boots of Swiftness']","['Jinx', 'Pantheon']",1
+4,13,19,25,12800,98,"['Solstice Sleigh', 'Tiamat', ""Jak'Sho, The Protean"", 'Oracle Lens', 'Boots of Swiftness', ""Warmog's Armor"", 'Iceborn Gauntlet']","['Aphelios', 'Lux']",0
+1,4,9,21,6500,36,"['Oracle Lens', 'Solstice Sleigh', 'Fimbulwinter', 'Boots of Swiftness', 'Negatron Cloak', ""Spectre's Cowl""]","['Samira', 'Rell']",1
+2,11,28,32,11900,90,"['Solstice Sleigh', 'Iceborn Gauntlet', 'Boots of Swiftness', 'Oracle Lens', 'Kaenic Rookern', 'Thornmail', 'Fated Ashes']","['Tristana', 'Tahm Kench']",0
+2,6,20,42,8900,71,"['Oracle Lens', 'Solstice Sleigh', 'Hextech Rocketbelt', 'Boots of Swiftness', ""Warmog's Armor"", ""Warden's Mail"", 'Ruby Crystal']","['Caitlyn', 'Braum']",1
+3,2,22,37,12700,77,"['Oracle Lens', 'Celestial Opposition', 'Locket of the Iron Solari', ""Warmog's Armor"", ""Mercury's Treads"", 'Iceborn Gauntlet', 'Bramble Vest']","['Caitlyn', 'Lux']",1
+0,11,11,43,6500,47,"['Celestial Opposition', 'Locket of the Iron Solari', 'Plated Steelcaps', 'Oracle Lens', 'Bramble Vest', ""Giant's Belt"", 'Crystalline Bracer']","['Jhin', 'Pyke']",0
+0,8,12,38,13200,29,"['Stealth Ward', 'Boots of Swiftness', 'Solstice Sleigh', 'Locket of the Iron Solari', 'Frozen Heart', 'Thornmail', ""Knight's Vow""]","[""Kai'Sa"", 'Pyke']",0
+0,7,10,36,7800,54,"['Oracle Lens', 'Celestial Opposition', 'Locket of the Iron Solari', 'Heartsteel', 'Plated Steelcaps', 'Bramble Vest']","['Yunara', 'Milio']",0
+1,8,8,28,7300,44,"['Celestial Opposition', 'Heartsteel', 'Plated Steelcaps', 'Oracle Lens', 'Chain Vest', ""Bami's Cinder""]","['Miss Fortune', 'Senna']",0
+1,7,16,45,7400,56,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Plated Steelcaps', 'Bramble Vest', 'Tunneler', 'Long Sword']","[""Kai'Sa"", ""Vel'Koz""]",0
+2,16,25,44,12500,118,"['Oracle Lens', 'Celestial Opposition', ""Knight's Vow"", ""Warmog's Armor"", 'Plated Steelcaps', 'Kaenic Rookern', 'Chain Vest']","['Yunara', 'Briar']",0
+6,10,16,38,10600,78,"['Celestial Opposition', 'Heartsteel', 'Plated Steelcaps', 'Oracle Lens', 'Force of Nature', 'Tunneler', 'Tunneler']","['Jhin', 'Lux']",0
+1,6,14,33,8400,48,"['Celestial Opposition', 'Heartsteel', ""Mercury's Treads"", 'Oracle Lens', 'Bramble Vest', ""Giant's Belt"", ""Giant's Belt""]","[""Kai'Sa"", 'Blitzcrank']",1
+7,9,34,32,16000,86,"['Celestial Opposition', ""Randuin's Omen"", 'Heartsteel', 'Oracle Lens', 'Chainlaced Crushers', 'Abyssal Mask', ""Warmog's Armor""]","['Smolder', 'Alistar']",1
+4,12,5,25,6800,24,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Boots', ""Wit's End""]","['Vayne', 'Thresh']",0
+2,5,18,39,10500,52,"['Solstice Sleigh', 'Heartsteel', ""Knight's Vow"", 'Oracle Lens', 'Plated Steelcaps', 'Bramble Vest', 'Chain Vest']","['Jhin', 'Taric']",1
+0,8,18,28,8800,76,"['Solstice Sleigh', 'Heartsteel', 'Plated Steelcaps', 'Oracle Lens', 'Sunfire Aegis', ""Giant's Belt""]","['Caitlyn', 'Rell']",1
+4,16,15,35,11400,101,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', 'Chainlaced Crushers', ""Wit's End"", 'Thornmail']","['Senna', 'Lux']",0
+4,11,12,46,9700,72,"['Solstice Sleigh', ""Mercury's Treads"", 'Thornmail', 'Oracle Lens', 'Imperial Mandate', 'Negatron Cloak', 'Kindlegem']","['Vayne', 'Braum']",0
+6,4,10,31,10100,41,"['Oracle Lens', 'Celestial Opposition', ""Zeke's Convergence"", ""Mercury's Treads"", ""Sterak's Gage"", 'Chain Vest', 'Negatron Cloak']","['Caitlyn', 'Singed']",1
+2,7,25,24,10800,66,"['Celestial Opposition', 'Iceborn Gauntlet', ""Mercury's Treads"", 'Oracle Lens', 'Abyssal Mask', ""Spectre's Cowl"", 'Bramble Vest']","[""Kai'Sa"", 'Pyke']",1
+1,9,10,18,8400,72,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Plated Steelcaps', 'Iceborn Gauntlet', 'Cloth Armor']","['Jhin', 'Thresh']",0
+6,5,22,29,12500,75,"['Celestial Opposition', 'Heartsteel', 'Boots of Swiftness', 'Oracle Lens', 'Sunfire Aegis', 'Abyssal Mask', ""Giant's Belt""]","['Yunara', 'Swain']",1
+5,7,13,34,11200,73,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', ""Mercury's Treads"", 'Sunfire Aegis', 'Negatron Cloak', 'Kindlegem']","['Ezreal', 'Shaco']",1
+5,6,12,10,7300,39,"['Celestial Opposition', 'Iceborn Gauntlet', ""Wit's End"", 'Oracle Lens', 'Boots']","['Senna', 'Braum']",1
+3,7,29,29,12100,67,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', 'Armored Advance', 'Navori Flickerblade', 'Blade of The Ruined King', 'Negatron Cloak']","['Vayne', 'Braum']",0
+1,1,5,23,4900,26,"['Celestial Opposition', ""Zeke's Convergence"", 'Boots', 'Oracle Lens', 'Bandleglass Mirror', 'Amplifying Tome', 'Glowing Mote']","['Varus', 'Blitzcrank']",1
+1,16,11,25,7600,49,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', 'Force of Nature', ""Mercury's Treads""]","['Smolder', 'Teemo']",0
+7,9,6,33,9200,42,"['Stealth Ward', 'Celestial Opposition', ""Randuin's Omen"", 'Iceborn Gauntlet', ""Mercury's Treads"", 'Negatron Cloak']","['Aphelios', 'Senna']",0
+2,9,15,29,7900,44,"['Celestial Opposition', 'Iceborn Gauntlet', 'Abyssal Mask', 'Oracle Lens', 'Ruby Crystal', 'Glowing Mote']","['Varus', 'Seraphine']",1
+0,10,6,25,6500,51,"['Celestial Opposition', ""Executioner's Calling"", 'Iceborn Gauntlet', 'Oracle Lens', 'Boots of Swiftness', 'Negatron Cloak', 'Dagger']","['Zeri', 'Milio']",0
+5,6,28,38,12400,62,"['Bloodsong', 'Thornmail', 'Heartsteel', 'Oracle Lens', 'Plated Steelcaps', 'Hollow Radiance', ""Giant's Belt""]","['Miss Fortune', 'Soraka']",1
+6,5,11,27,8500,40,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', ""Warmog's Armor"", 'Boots of Swiftness']","['Jinx', 'Karma']",1
+4,12,17,26,9900,64,"['Oracle Lens', 'Celestial Opposition', 'Plated Steelcaps', 'Heartsteel', 'Force of Nature', 'Crystalline Bracer', 'Ruby Crystal']","[""Kai'Sa"", 'Brand']",1
+3,7,22,41,11300,66,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', 'Boots of Swiftness', 'Sunfire Aegis', 'Abyssal Mask', ""Giant's Belt""]","['Xayah', 'Pantheon']",1
+3,9,5,37,8000,62,"['Oracle Lens', ""Zaz'Zak's Realmspike"", ""Luden's Companion"", 'Blackfire Torch', 'Dark Seal', 'Amplifying Tome', 'Ionian Boots of Lucidity']","['Smolder', 'Senna']",0
+6,5,17,45,12300,84,"['Oracle Lens', 'Solstice Sleigh', 'Bramble Vest', 'Heartsteel', 'Boots of Swiftness', 'Iceborn Gauntlet', 'Kaenic Rookern']","['Miss Fortune', 'Milio']",0
+8,7,14,36,11400,81,"['Solstice Sleigh', 'Iceborn Gauntlet', ""Executioner's Calling"", 'Oracle Lens', 'Boots of Swiftness', 'Thornmail', ""Warden's Mail""]","['Xayah', 'Soraka']",1
+2,13,15,44,10000,88,"['Oracle Lens', 'Celestial Opposition', ""Wit's End"", 'Plated Steelcaps', 'Bramble Vest', ""Warmog's Armor"", 'Chain Vest']","['Varus', 'Mel']",0
+1,5,2,27,5000,41,"['Oracle Lens', 'Bloodsong', 'Heartsteel', 'Bramble Vest', 'Glowing Mote', 'Boots']","['Jinx', 'Lulu']",0
+2,11,14,63,10300,87,"['Solstice Sleigh', 'Tiamat', 'Boots of Swiftness', 'Oracle Lens', 'Unending Despair', 'Trinity Force', 'Dagger']","['Twitch', 'Swain']",0
+2,5,8,29,6800,51,"['Oracle Lens', 'Solstice Sleigh', 'Heartsteel', 'Chain Vest', 'Ruby Crystal', 'Boots', 'Sheen']","['Ashe', 'Milio']",0
+3,4,16,38,9500,56,"['Stealth Ward', 'Celestial Opposition', 'Iceborn Gauntlet', 'Plated Steelcaps', 'Hollow Radiance', 'Bramble Vest', 'Cloth Armor']","['Ezreal', 'Senna']",1
+3,14,23,32,10900,72,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Sunfire Aegis', ""Mercury's Treads"", 'Thornmail', 'Cloth Armor']","['Tristana', 'Sona']",0
+2,14,11,58,9500,77,"['Celestial Opposition', 'Stridebreaker', ""Knight's Vow"", 'Oracle Lens', ""Mercury's Treads"", 'Bramble Vest', 'Chain Vest']","['Ashe', 'Lux']",0
+0,1,9,23,6100,21,"['Oracle Lens', 'Solstice Sleigh', 'Heartsteel', 'Plated Steelcaps']","['Jhin', 'Yuumi']",1
+0,2,15,23,6800,35,"['Oracle Lens', 'Celestial Opposition', 'Locket of the Iron Solari', 'Control Ward', 'Boots of Swiftness', 'Bramble Vest', 'Chain Vest']","['Xayah', 'Alistar']",1
+4,11,21,27,20900,68,"['Farsight Alteration', ""Jak'Sho, The Protean"", 'Locket of the Iron Solari', 'Heartsteel', 'Thornmail', 'Frozen Heart', 'Boots of Swiftness']","['Ashe', 'Neeko']",0
+1,10,5,29,8700,25,"['Oracle Lens', 'Celestial Opposition', 'Iceborn Gauntlet', 'Fimbulwinter', 'Symbiotic Soles', 'Bramble Vest', 'Chain Vest']","['Tristana', 'Tahm Kench']",0
+2,0,2,23,3700,9,"['Stealth Ward', 'Runic Compass', 'Crystalline Bracer', ""Giant's Belt"", 'Ruby Crystal', 'Boots']","['Ezreal', 'Xerath']",0
+6,1,10,29,8000,41,"['Oracle Lens', 'Solstice Sleigh', ""Knight's Vow"", 'Synchronized Souls', 'Unending Despair', ""Bami's Cinder""]","['Ashe', 'Poppy']",1
+2,9,13,37,11200,85,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Iceborn Gauntlet', 'Synchronized Souls', 'Sunfire Aegis', 'Cloth Armor']","['Caitlyn', 'Neeko']",0
+2,2,10,39,14100,42,"['Solstice Sleigh', ""Seeker's Armguard"", 'Riftmaker', 'Oracle Lens', ""Mercury's Treads"", ""Banshee's Veil"", 'Lich Bane']","['Xayah', 'Neeko']",1
+2,12,5,41,6300,39,"['Solstice Sleigh', 'Iceborn Gauntlet', 'Plated Steelcaps', 'Oracle Lens', 'Bramble Vest', 'Cloth Armor', 'Ruby Crystal']","['Ashe', 'Milio']",0
+3,11,8,26,7200,45,"['Oracle Lens', 'Bloodsong', 'Heartsteel', ""Mercury's Treads"", ""Bami's Cinder"", ""Spectre's Cowl""]","['Ezreal', 'Nautilus']",0
+4,7,8,54,10200,92,"['Stealth Ward', ""Zaz'Zak's Realmspike"", ""Seeker's Armguard"", ""Luden's Companion"", 'Stormsurge', ""Sorcerer's Shoes""]","['Samira', 'Rakan']",0
+9,6,24,49,13900,60,"['Oracle Lens', 'Celestial Opposition', 'Ionian Boots of Lucidity', 'Heartsteel', 'Sunfire Aegis', ""Warmog's Armor"", 'Negatron Cloak']","['Miss Fortune', 'Seraphine']",1
+0,8,9,38,8400,63,"['Celestial Opposition', 'Stridebreaker', 'Black Cleaver', 'Oracle Lens', 'Plated Steelcaps']","['Tristana', 'Thresh']",1
+2,2,3,25,3500,9,"['Runic Compass', 'Long Sword', 'Boots', 'Oracle Lens', 'Sheen', 'Null-Magic Mantle', 'Chain Vest']","['Sivir', 'Mel']",0
+14,14,14,25,14700,71,"['Oracle Lens', 'Infinity Edge', 'Yun Tal Wildarrows', 'Plated Steelcaps', 'Terminus', 'Frozen Heart', 'Cloak of Agility']","['Aphelios', 'Pyke']",0
+1,5,0,33,4300,18,"['Bloodsong', 'Voltaic Cyclosword', 'Boots', 'Oracle Lens']","['Aphelios', 'Sona']",0
+2,15,19,31,11100,98,"['Celestial Opposition', 'Black Cleaver', ""Wit's End"", 'Oracle Lens', 'Synchronized Souls', 'Sunfire Aegis']","['Samira', 'Malphite']",0
+2,2,18,25,8700,58,"['Solstice Sleigh', 'Kindlegem', ""Mercury's Treads"", 'Oracle Lens', 'Fimbulwinter', 'Iceborn Gauntlet']","['Vayne', 'Braum']",1
+4,9,12,26,8800,58,"['Bloodsong', 'Heartsteel', 'Synchronized Souls', 'Oracle Lens', 'Frozen Heart', ""Bami's Cinder"", 'Null-Magic Mantle']","[""Kai'Sa"", 'Nautilus']",0
+5,8,15,41,10800,66,"['Oracle Lens', 'Celestial Opposition', 'Synchronized Souls', 'Heartsteel', 'Unending Despair', ""Warmog's Armor""]","['Caitlyn', 'Pyke']",1
+4,7,12,32,9600,69,"['Celestial Opposition', 'Heartsteel', 'Synchronized Souls', 'Oracle Lens', 'Sunfire Aegis', ""Giant's Belt""]","['Ashe', ""Vel'Koz""]",1
+1,10,11,36,8500,86,"['Bloodsong', ""Knight's Vow"", 'Heartsteel', 'Oracle Lens', 'Armored Advance']","['Caitlyn', 'Shaco']",0
+1,3,4,28,4100,20,"['Oracle Lens', 'Bloodsong', 'Heartsteel', 'Boots']","['Ashe', 'Lux']",0
+6,8,11,45,9600,64,"['Bloodsong', 'Eclipse', 'Fimbulwinter', 'Oracle Lens', 'Plated Steelcaps', ""Giant's Belt"", ""Giant's Belt""]","['Varus', 'Pyke']",0
+1,7,19,25,8200,50,"['Celestial Opposition', 'Thornmail', ""Mercury's Treads"", 'Oracle Lens', 'Null-Magic Mantle', 'Chain Vest', ""Bami's Cinder""]","['Jinx', ""Vel'Koz""]",1
+3,8,17,29,10000,77,"['Celestial Opposition', 'Heartsteel', 'Plated Steelcaps', 'Oracle Lens', ""Winter's Approach"", 'Crystalline Bracer', ""Giant's Belt""]","['Vayne', 'Brand']",1
+2,8,12,42,7900,46,"['Oracle Lens', 'Celestial Opposition', 'Heartsteel', 'Crystalline Bracer', 'Chainlaced Crushers', 'Bramble Vest', 'Ruby Crystal']","['Jhin', 'Lux']",0
