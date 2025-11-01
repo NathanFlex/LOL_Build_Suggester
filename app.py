@@ -1,6 +1,4 @@
 import os
-
-import cv2
 import streamlit as st
 import pandas as pd
 import import_ipynb
@@ -18,8 +16,8 @@ def recommend_items():
         for item in item_list:
             for image in os.listdir(item_image_location):
                 if item.lower() == image[:-4].lower():
-                    item_image_file = cv2.imread(os.path.join(item_image_location,image))
-                    item_image_file = cv2.cvtColor(item_image_file, cv2.COLOR_BGR2RGB)
+                    item_image_file = cv.imread(os.path.join(item_image_location,image))
+                    item_image_file = cv.cvtColor(item_image_file, cv.COLOR_BGR2RGB)
                     item_images.append(item_image_file)
         with item_container:
             item1, item2, item3, item4, item5 = st.columns(5)
@@ -30,7 +28,7 @@ def recommend_items():
 
 st.title("Leona Build Suggestor")
 leona_img = cv.imread("SolEcl_Leona.jpg")
-leona_img = cv2.cvtColor(leona_img,cv2.COLOR_BGR2RGB)
+leona_img = cv.cvtColor(leona_img,cv.COLOR_BGR2RGB)
 st.image(leona_img)
 
 df = pd.read_excel("LeagueChampsData.xlsx")
