@@ -6,10 +6,16 @@ from suggest_build_withboots import suggest_items
 
 def recommend_items():
     item_image_location = "items"
+    boots_image_location = "boots"
     if adc == None or sup == None:
         return
     else:
         boots, items = suggest_items(adc,sup)
+        for image in os.listdir(boots_image_location):
+            if boots.lower() == image[:-4].lower():
+                boots_image_file = cv.imread(os.path.join(boots_image_location, image))
+                boots_image_file = cv.cvtColor(boots_image_file, cv.COLOR_BGR2RGB)
+
         item_list = [item[0] for item in items]
         item_images = []
         for item in item_list:
@@ -19,12 +25,28 @@ def recommend_items():
                     item_image_file = cv.cvtColor(item_image_file, cv.COLOR_BGR2RGB)
                     item_images.append(item_image_file)
         with item_container:
-            st.write(boots)
-            item1, item2, item3, item4, item5 = st.columns(5)
-            columns = [item1, item2, item3, item4, item5]
+            st.markdown("## Boots")
+            st.image(boots_image_file, width=64)
+            st.markdown("## Items")
+            st.markdown("### Core Item")
+            st.image(item_images[0], width=64)
+            st.markdown("### Recommended Items")
+            item2, item3 = st.columns(2)
+            columns = [item2,item3]
             for i in range(len(columns)):
                 with columns[i]:
-                    st.image(item_images[i], width = 64)
+                    st.image(item_images[i+1], width=64)
+            st.markdown("### Situational Options")
+            item4, item5 = st.columns(2)
+            columns = [item4, item5]
+            for i in range(len(columns)):
+                with columns[i]:
+                    st.image(item_images[i+3], width=64)
+            # item1, item2, item3, item4, item5 = st.columns(5)
+            # columns = [item1, item2, item3, item4, item5]
+            # for i in range(len(columns)):
+            #     with columns[i]:
+            #         st.image(item_images[i], width = 64)
 
 st.title("Leona Build Suggestor")
 leona_img = cv.imread("SolEcl_Leona.jpg")
