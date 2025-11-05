@@ -45,8 +45,8 @@ def suggest_items(adc, sup):
     boots_model.eval()
     model.eval()
     with torch.no_grad():
-        enemy_input = torch.tensor([input_values], dtype=torch.long)
-        preds_boots = boots_model(enemy_input)
+        boots_input = torch.tensor([input_values], dtype=torch.long)
+        preds_boots = boots_model(boots_input)
 
         probs = preds_boots.tolist()[0]
         item_prob = {}
