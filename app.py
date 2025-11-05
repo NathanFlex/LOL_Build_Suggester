@@ -2,14 +2,14 @@ import os
 import streamlit as st
 import pandas as pd
 import cv2 as cv
-from suggest_build import suggest_items
+from suggest_build_withboots import suggest_items
 
 def recommend_items():
     item_image_location = "items"
     if adc == None or sup == None:
         return
     else:
-        items = suggest_items(adc,sup)
+        boots, items = suggest_items(adc,sup)
         item_list = [item[0] for item in items]
         item_images = []
         for item in item_list:
@@ -19,6 +19,7 @@ def recommend_items():
                     item_image_file = cv.cvtColor(item_image_file, cv.COLOR_BGR2RGB)
                     item_images.append(item_image_file)
         with item_container:
+            st.write(boots)
             item1, item2, item3, item4, item5 = st.columns(5)
             columns = [item1, item2, item3, item4, item5]
             for i in range(len(columns)):
