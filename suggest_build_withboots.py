@@ -72,6 +72,7 @@ def suggest_items(adc, sup):
     return predicted_boots, sorted_item_probs[:5]
 
 champ_data = pd.read_excel("LeagueChampsData.xlsx")
+champ_data['Champion'] = champ_data['Champion'].apply(lambda x: x.lower())
 SUPPORT_ITEM_LIST = ["Bloodsong","Celestial Opposition","Dream Maker","Solstice Sleigh","Zaz'Zak's Realmspike"]
 LEGENDARY_ITEM_LIST = ["Abyssal Mask","Archangel's Staff","Ardent Censer","Axiom Arc","Banshee's Veil","Black Cleaver",
                       "Blackfire Torch","Blade of the Ruined King","Bloodletter's Curse","Bloodthirster","Chempunk Chainsword",
